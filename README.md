@@ -1,5 +1,3 @@
-# Customer-Segmentation-Insights
-
 # 🛍️ Customer Segmentation & RFM Insights Dashboard (E-Commerce Analytics)
 
 [![Tableau Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](https://public.tableau.com/views/CustomerSegmentationInsightsDashboard_17437831505140/Dashboard1)
@@ -84,16 +82,6 @@ Businesses often struggle to understand customer behavior and personalize market
 - Add demographic segmentation (e.g., region, country)
 - Use advanced models (e.g., DBSCAN, Hierarchical Clustering)
 - Deploy dashboard in a business analytics environment (Power BI or Streamlit)
-
----
-
-## 📷 Dashboard Preview
-
-![Dashboard Preview](https://public.tableau.com/static/images/Cu/CustomerSegmentationInsightsDashboard_17437831505140/Dashboard1/1.png)
-
----
-
----
 
 ## 🧠 Author
 
