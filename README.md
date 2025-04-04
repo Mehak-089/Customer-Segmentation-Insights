@@ -87,7 +87,7 @@ Businesses often struggle to understand customer behavior and personalize market
 
 **Mehak Memon**  
   
-📧 mehakm5555@gmail.com | 
+📧 mehakm5555@gmail.com 
 
 ---
 
